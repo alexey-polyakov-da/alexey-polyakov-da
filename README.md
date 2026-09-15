@@ -69,6 +69,16 @@ Ad hoc-анализ объявлений о недвижимости: сроки
 
 [Репозиторий](https://github.com/alexey-polyakov-da/spb-real-estate-analysis) · [Интерактивный дашборд](https://datalens.yandex/rnz52h7aca3ab?_share_link=public)
 
+### [Анализ венчурного финансирования стартапов](https://github.com/alexey-polyakov-da/startup-venture-funding-analysis)
+
+Провёл EDA данных о венчурном финансировании: обработал пропуски и выбросы, исследовал рыночные сегменты, инвестиционные раунды, типы финансирования и динамику возврата средств.
+
+Выявил лидерство венчурного финансирования по распространённости и объёму, проанализировал растущие сегменты и сформировал инвестиционную рекомендацию для направления `software`.
+
+**Стек:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook, EDA
+
+[Открыть репозиторий](https://github.com/alexey-polyakov-da/startup-venture-funding-analysis)
+
 ## Обо мне
 
 - Кандидат технических наук.
