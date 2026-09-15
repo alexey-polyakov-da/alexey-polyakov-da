@@ -61,7 +61,7 @@ SQL-анализ метрик сервиса «Яндекс Книги» и оц
 
 **Стек:** PostgreSQL, SQL, Python, Pandas, SciPy, Statsmodels, A/B Testing.
 
-### 3. [Анализ рынка недвижимости Санкт-Петербурга и Ленинградской области](https://github.com/alexey-polyakov-da/spb-real-estate-analysis)
+### [Анализ рынка недвижимости Санкт-Петербурга и Ленинградской области](https://github.com/alexey-polyakov-da/spb-real-estate-analysis)
 
 Ad hoc-анализ объявлений о недвижимости: сроки активности, региональные различия и сезонность рынка. Подготовлены SQL-запросы и интерактивный дашборд в Yandex DataLens.
 
