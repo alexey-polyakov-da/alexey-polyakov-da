@@ -8,7 +8,15 @@
 📍 Санкт-Петербург · Открыт к предложениям в области анализа данных
 
 ## Технологии
+### Data Engineering
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+
+**Инструменты и практики:** ETL/ELT · Data Pipelines · Data Quality · UPSERT · SQL Transactions · Data Marts · Logging & Monitoring · Windows Task Scheduler
 ### Анализ данных и программирование
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
