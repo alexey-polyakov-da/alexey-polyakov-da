@@ -43,6 +43,19 @@
 
 ## Проекты
 
+### [Ecommerce Data Pipeline — ETL на Python и PostgreSQL](https://github.com/alexey-polyakov-da/ecommerce-data-pipeline)
+
+Разработка ETL-пайплайна для обработки заказов интернет-магазина: от загрузки исходных CSV-файлов до хранения данных в PostgreSQL, формирования аналитических витрин и автоматического мониторинга.
+
+- реализован полный ETL-цикл: извлечение, очистка, валидация и загрузка данных;
+- настроены UPSERT, транзакции с COMMIT/ROLLBACK и безопасная синхронизация записей через Soft Delete;
+- реализован контроль качества данных с проверкой пропусков, дубликатов и бизнес-правил;
+- созданы аналитические витрины `daily_sales`, `etl_monitoring` и `etl_health`;
+- настроены PostgreSQL 17 в Docker, журналирование запусков и независимый мониторинг по расписанию Windows;
+- реализована обработка ошибок, контроль зависших запусков и проверка актуальности данных.
+
+**Стек:** Python, Pandas, PostgreSQL, SQLAlchemy, Docker, SQL, ETL, Data Quality, Windows Task Scheduler.
+
 ### [Yandex Afisha — Product Analytics](https://github.com/alexey-polyakov-da/yandex-afisha-analysis)
 
 Исследование бронирований билетов: динамика спроса, сезонность, категории мероприятий, регионы, партнёры и поведение пользователей разных устройств.
